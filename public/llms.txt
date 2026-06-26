@@ -76,7 +76,67 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 10**
+
+### תיק כדורגל מקצועי
+https://example.com/product/tyk-kdvrgl-mktsvay-lyxe0x
+- Price: 129.00 ILS
+- Availability: In stock
+- Description: תיק גב מרווח לכדורגל, תא נפרד לנעליים, תא לכדור, רצועות נוחות. מושלם לאימונים ומשחקים.
+
+### גרבי כדורגל דחוסות - זוג
+https://example.com/product/grby-kdvrgl-dchvsvt-zvg-9lqa64
+- Price: 35.00 ILS
+- Availability: In stock
+- Description: גרבי כדורגל דחוסות מקצועיות, תמיכה בכף הרגל והקרסול. נידוף זיעה וייבוש מהיר.
+
+### כדור רחוב - Street Football
+https://example.com/product/kdvr-rchvb-street-football-d83xyg
+- Price: 39.00 ILS
+- Availability: In stock
+- Description: כדור קטן וקליל למשחקי רחוב וקטרגל. עמיד במיוחד לאספלט ולבטון, אחיזה מעולה.
+
+### חולצת שוער מקצועית
+https://example.com/product/chvltst-shvar-mktsvayt-2o6bhb
+- Price: 109.00 ILS
+- Availability: In stock
+- Description: חולצת שוער עם ריפוד במרפקים, הגנה מקסימלית ונוחות ללא פשרות. עמידה לזינוקים ונפילות.
+
+### קונוסים מקצועיים + סולם זריזות
+https://example.com/product/kvnvsym-mktsvayym-svlm-zryzvt-da5q62
+- Price: 99.00 ILS
+- Availability: In stock
+- Description: ערכת אימון מלאה: 12 קונוסים + סולם זריזות מתקפל. מושלם לשיפור מהירות וקואורדינציה.
+
+### סט קונוסים לאימון - 20 יחידות
+https://example.com/product/st-kvnvsym-laymvn-20-ychydvt-75k83i
+- Price: 49.00 ILS
+- Availability: In stock
+- Description: סט 20 קונוסים צבעוניים לאימוני כדורגל. קלים, עמידים, עם בסיס רחב ליציבות על הדשא.
+
+### כדור אימון מקצועי
+https://example.com/product/kdvr-aymvn-mktsvay-ai0olj
+- Price: 69.00 ILS
+- Availability: In stock
+- Description: כדור אימון עמיד במחיר משתלם. אחיזה טובה, ניפוח אחיד, מושלם לאימונים יומיומיים.
+
+### כדור משחק רשמי - FIFA Quality
+https://example.com/product/kdvr-mshchk-rshmy-fifa-quality-gr66f4
+- Price: 119.00 ILS
+- Availability: In stock
+- Description: כדור משחק בתקן FIFA Quality, אחיזה מעולה ועמידות לאורך זמן. מתאים לכל סוגי המגרשים.
+
+### חולצת כדורגל - אדידס
+https://example.com/product/chvltst-kdvrgl-adyds-2nss7j
+- Price: 79.00 ILS
+- Availability: In stock
+- Description: חולצת כדורגל קלה ונוחה עם טכנולוגיית Climalite לנידוף זיעה. מושלמת למגרש.
+
+### חולצת כדורגל מקצועית - נייק
+https://example.com/product/chvltst-kdvrgl-mktsvayt-nyyk-wj4vkp
+- Price: 89.00 ILS
+- Availability: In stock
+- Description: חולצת כדורגל איכותית מבד נושם, מתאימה למשחק ולאימונים. זמינה במגוון צבעים ומידות.
 
 ---
 

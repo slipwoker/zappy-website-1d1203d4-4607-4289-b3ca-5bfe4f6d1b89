@@ -4,6 +4,116 @@
     <title>סניקס</title>
     <link>https://example.com</link>
     <description>Product feed for סניקס</description>
-    <lastBuildDate>Fri, 26 Jun 2026 12:23:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 12:25:26 GMT</lastBuildDate>
+    <item>
+      <g:id>1c29d71d-4266-424b-a3e8-08415bece930</g:id>
+      <g:title>תיק כדורגל מקצועי</g:title>
+      <g:description>תיק גב מרווח לכדורגל, תא נפרד לנעליים, תא לכדור, רצועות נוחות. מושלם לאימונים ומשחקים.</g:description>
+      <g:link>https://example.com/product/tyk-kdvrgl-mktsvay-lyxe0x</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>129.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>סניקס</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>0902b84d-c2d9-4324-a2f3-bcf897ab6841</g:id>
+      <g:title>גרבי כדורגל דחוסות - זוג</g:title>
+      <g:description>גרבי כדורגל דחוסות מקצועיות, תמיכה בכף הרגל והקרסול. נידוף זיעה וייבוש מהיר.</g:description>
+      <g:link>https://example.com/product/grby-kdvrgl-dchvsvt-zvg-9lqa64</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>35.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>סניקס</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>3ce6e000-8de1-4fba-934a-1d25a053bdef</g:id>
+      <g:title>כדור רחוב - Street Football</g:title>
+      <g:description>כדור קטן וקליל למשחקי רחוב וקטרגל. עמיד במיוחד לאספלט ולבטון, אחיזה מעולה.</g:description>
+      <g:link>https://example.com/product/kdvr-rchvb-street-football-d83xyg</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>39.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>סניקס</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>6a13aade-743d-46ae-af34-a95bf40cefce</g:id>
+      <g:title>חולצת שוער מקצועית</g:title>
+      <g:description>חולצת שוער עם ריפוד במרפקים, הגנה מקסימלית ונוחות ללא פשרות. עמידה לזינוקים ונפילות.</g:description>
+      <g:link>https://example.com/product/chvltst-shvar-mktsvayt-2o6bhb</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>109.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>סניקס</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>ebf7fde0-bba9-494e-9b6d-3e9fb8f5bc42</g:id>
+      <g:title>קונוסים מקצועיים + סולם זריזות</g:title>
+      <g:description>ערכת אימון מלאה: 12 קונוסים + סולם זריזות מתקפל. מושלם לשיפור מהירות וקואורדינציה.</g:description>
+      <g:link>https://example.com/product/kvnvsym-mktsvayym-svlm-zryzvt-da5q62</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>99.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>סניקס</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>94449be5-3f79-4bf9-b2c6-5a6d1fdaae6d</g:id>
+      <g:title>סט קונוסים לאימון - 20 יחידות</g:title>
+      <g:description>סט 20 קונוסים צבעוניים לאימוני כדורגל. קלים, עמידים, עם בסיס רחב ליציבות על הדשא.</g:description>
+      <g:link>https://example.com/product/st-kvnvsym-laymvn-20-ychydvt-75k83i</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>49.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>סניקס</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>c01b8b80-31d1-45c9-bfee-12d4808406c0</g:id>
+      <g:title>כדור אימון מקצועי</g:title>
+      <g:description>כדור אימון עמיד במחיר משתלם. אחיזה טובה, ניפוח אחיד, מושלם לאימונים יומיומיים.</g:description>
+      <g:link>https://example.com/product/kdvr-aymvn-mktsvay-ai0olj</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>69.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>סניקס</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>2c19f54c-2ed3-4115-9b3b-1d8c6106cc96</g:id>
+      <g:title>כדור משחק רשמי - FIFA Quality</g:title>
+      <g:description>כדור משחק בתקן FIFA Quality, אחיזה מעולה ועמידות לאורך זמן. מתאים לכל סוגי המגרשים.</g:description>
+      <g:link>https://example.com/product/kdvr-mshchk-rshmy-fifa-quality-gr66f4</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>119.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>סניקס</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>4734599b-ed6c-40ae-9dad-7e8dc7fd1088</g:id>
+      <g:title>חולצת כדורגל - אדידס</g:title>
+      <g:description>חולצת כדורגל קלה ונוחה עם טכנולוגיית Climalite לנידוף זיעה. מושלמת למגרש.</g:description>
+      <g:link>https://example.com/product/chvltst-kdvrgl-adyds-2nss7j</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>79.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>סניקס</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>6145ce08-161d-40da-ac7c-ff272c739da1</g:id>
+      <g:title>חולצת כדורגל מקצועית - נייק</g:title>
+      <g:description>חולצת כדורגל איכותית מבד נושם, מתאימה למשחק ולאימונים. זמינה במגוון צבעים ומידות.</g:description>
+      <g:link>https://example.com/product/chvltst-kdvrgl-mktsvayt-nyyk-wj4vkp</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>89.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>סניקס</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>
