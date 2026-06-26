@@ -1,0 +1,105 @@
+# סניקס — Generative Engine Optimization Map
+
+> An online dropshipping store selling trending popular products priced between 30-140 NIS. The business model involves receiving customer orders and payments directly to a bank account, then purchasing the same products at lower prices from AliExpress. The store features credit card payment integration, customer reviews (3-5 stars, majority 5-star), modern discount and promotional systems, and a practical, innovative shopping experience.
+
+---
+
+## Pages
+
+### דף הבית
+https://-1d1203d4.zappy5.app
+חנות דרופשיפינג אונליין עם מוצרים טרנדיים ב-30–140 ₪. הזמן עכשיו, שלם בכרטיס אשראי, ואנחנו דואגים לשאר. חוויית קניות חדשנית מחכה לך!
+
+### הטבות ומבצעים
+https://-1d1203d4.zappy5.app/benefits-offers
+מבצעים יומיים, קופונים חכמים ומחירים שלא תמצא בשום מקום אחר. כל המוצרים האהובים ב-30–140 ₪ עם מערכת הנחות מודרנית. כנס ותתחדש!
+
+### חוות דעת ואמון
+https://-1d1203d4.zappy5.app/reviews-trust
+צפה בחוות דעת אמיתיות עם דירוג של 3–5 כוכבים, רובן 5. גלה למה כולם בוטחים בסניקס למוצרים חמים במחיר משתלם. הצטרף עכשיו למשפחה!
+
+### צור קשר
+https://-1d1203d4.zappy5.app/contact
+צריך עזרה עם הזמנה או רוצה לשמוע על מוצרים חדשים? מלא פרטים ואנחנו חוזרים במהירות. שירות אישי שמבין אונליין. דבר איתנו עוד היום!
+
+### Products
+https://-1d1203d4.zappy5.app/products
+המוצרים שלנו - סניקס
+
+### Cart
+https://-1d1203d4.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-1d1203d4.zappy5.app/checkout
+תשלום
+
+### Login
+https://-1d1203d4.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-1d1203d4.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-1d1203d4.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-1d1203d4.zappy5.app/product/:slug
+פרטי המוצר - סניקס
+
+### Category
+https://-1d1203d4.zappy5.app/category/:slug
+מוצרים - סניקס
+
+### תודה שפניתם אלינו
+https://-1d1203d4.zappy5.app/thank-you
+סניקס - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-1d1203d4.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-1d1203d4.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-1d1203d4.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About סניקס
+An online dropshipping store selling trending popular products priced between 30-140 NIS. The business model involves receiving customer orders and payments directly to a bank account, then purchasing the same products at lower prices from AliExpress. The store features credit card payment integration, customer reviews (3-5 stars, majority 5-star), modern discount and promotional systems, and a practical, innovative shopping experience.
+
+## Target Audience
+- קונים מקוונים המחפשים מוצרים פופולריים במחירים נגישים
+- קונים מקוונים מחפשים דילים
+- צעירים חובבי טכנולוגיה
+- ציידי מציאות
+
+## Industry
+E-commerce / Dropshipping
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-1d1203d4.zappy5.app/sitemap.xml
+- Robots: https://-1d1203d4.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-1d1203d4.zappy5.app/llms-full.txt
+- Products (JSON): https://-1d1203d4.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-1d1203d4.zappy5.app/product-feed.xml
