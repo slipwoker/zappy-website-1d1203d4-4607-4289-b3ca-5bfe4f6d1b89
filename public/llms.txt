@@ -7,69 +7,69 @@
 ## Pages
 
 ### דף הבית
-https://-1d1203d4.zappy5.app
+https://example.com
 חנות דרופשיפינג אונליין עם מוצרים טרנדיים ב-30–140 ₪. הזמן עכשיו, שלם בכרטיס אשראי, ואנחנו דואגים לשאר. חוויית קניות חדשנית מחכה לך!
 
 ### הטבות ומבצעים
-https://-1d1203d4.zappy5.app/benefits-offers
+https://example.com/benefits-offers
 מבצעים יומיים, קופונים חכמים ומחירים שלא תמצא בשום מקום אחר. כל המוצרים האהובים ב-30–140 ₪ עם מערכת הנחות מודרנית. כנס ותתחדש!
 
 ### חוות דעת ואמון
-https://-1d1203d4.zappy5.app/reviews-trust
+https://example.com/reviews-trust
 צפה בחוות דעת אמיתיות עם דירוג של 3–5 כוכבים, רובן 5. גלה למה כולם בוטחים בסניקס למוצרים חמים במחיר משתלם. הצטרף עכשיו למשפחה!
 
 ### צור קשר
-https://-1d1203d4.zappy5.app/contact
+https://example.com/contact
 צריך עזרה עם הזמנה או רוצה לשמוע על מוצרים חדשים? מלא פרטים ואנחנו חוזרים במהירות. שירות אישי שמבין אונליין. דבר איתנו עוד היום!
 
 ### Products
-https://-1d1203d4.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - סניקס
 
 ### Cart
-https://-1d1203d4.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-1d1203d4.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-1d1203d4.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-1d1203d4.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-1d1203d4.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-1d1203d4.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - סניקס
 
 ### Category
-https://-1d1203d4.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - סניקס
 
 ### תודה שפניתם אלינו
-https://-1d1203d4.zappy5.app/thank-you
+https://example.com/thank-you
 סניקס - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-1d1203d4.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-1d1203d4.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-1d1203d4.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -98,8 +98,8 @@ E-commerce / Dropshipping
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-1d1203d4.zappy5.app/sitemap.xml
-- Robots: https://-1d1203d4.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-1d1203d4.zappy5.app/llms-full.txt
-- Products (JSON): https://-1d1203d4.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-1d1203d4.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
